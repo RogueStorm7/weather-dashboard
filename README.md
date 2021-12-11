@@ -20,4 +20,3 @@ Once a cities is seached the results will be saved in local storage. The last se
 
 If the API displays an error message it is because the API call was unsuccessful, and is telling the user to search again for a valid city, the result will be that the ciry name will be removed.
 
-
