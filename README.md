@@ -1,7 +1,7 @@
 # weather-dashboard-challenge
 
 ## Links
-Link to Depolyed Application:
+Link to Depolyed Application:https://roguestorm7.github.io/weather-dashboard-challenge/
 
 ## User Story:
 
@@ -19,7 +19,5 @@ The current weather data includes what one would need to know: the UV index, win
 Once a cities is seached the results will be saved in local storage. The last searched city will be displayed when the user opens the weather dashboard, the search will have current weather information.
 
 If the API displays an error message it is because the API call was unsuccessful, and is telling the user to search again for a valid city, the result will be that the ciry name will be removed.
-
-## Image Demo:
 
 
